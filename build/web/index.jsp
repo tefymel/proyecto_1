@@ -8,6 +8,12 @@
     <body>
         <h1>Pagina principal</h1>
         <%@include file="menu.jsp"%>
-
+        <h2>slider</h2>
+        <h2>slider</h2>
+        <h2>slider</h2>
+        <h2>slider</h2>
+        <h2>slider</h2>
+        <h2>slider</h2>
+        
     </body>
 </html>
